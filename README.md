@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ninja1506
+- 👋 Hi, I’m Nitesh kushwaha
 - 👀 I’m interested in web dev and deep learning
 - 🌱 I’m currently learning web dev
 
