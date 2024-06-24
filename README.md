@@ -3,9 +3,13 @@ Hello! I'm Nitesh Kushwaha, a passionate learner and enthusiast in the fields of
 
 SKILLS
 •Programming Languages: Python, (add more languages if applicable)
+
 •Machine Learning: (e.g., Scikit-Learn, TensorFlow, Keras)
+
 •Deep Learning: (e.g., TensorFlow, PyTorch)
+
 •Data Science: (e.g., Pandas, NumPy, Matplotlib, Seaborn)
+
 •Data Structures and Algorithms: (e.g., proficient in solving algorithmic problems, understanding of various data structures)
 
 
