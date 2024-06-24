@@ -1,6 +1,13 @@
-- 👋 Hi, I’m Nitesh kushwaha
-- 👀 I’m interested in web dev and deep learning
-- 🌱 I’m currently learning web dev
+
+Hello! I'm Nitesh Kushwaha, a passionate learner and enthusiast in the fields of Machine Learning, Deep Learning, and Data Science. Currently, I am honing my skills in Data Structures and Algorithms (DSA) alongside my continued exploration of Machine Learning.
+
+SKILLS
+•Programming Languages: Python, (add more languages if applicable)
+•Machine Learning: (e.g., Scikit-Learn, TensorFlow, Keras)
+•Deep Learning: (e.g., TensorFlow, PyTorch)
+•Data Science: (e.g., Pandas, NumPy, Matplotlib, Seaborn)
+•Data Structures and Algorithms: (e.g., proficient in solving algorithmic problems, understanding of various data structures)
+
 
 
 <!---
