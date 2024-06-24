@@ -3,7 +3,7 @@ Hello! I'm Nitesh Kushwaha, a passionate learner and enthusiast in the fields of
 
 SKILLS
 
-•Programming Languages: Python, (add more languages if applicable)
+•Programming Languages: Python and java
 
 •Machine Learning: (e.g., Scikit-Learn, TensorFlow, Keras)
 
