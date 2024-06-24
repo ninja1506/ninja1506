@@ -2,6 +2,7 @@
 Hello! I'm Nitesh Kushwaha, a passionate learner and enthusiast in the fields of Machine Learning, Deep Learning, and Data Science. Currently, I am honing my skills in Data Structures and Algorithms (DSA) alongside my continued exploration of Machine Learning.
 
 SKILLS
+
 •Programming Languages: Python, (add more languages if applicable)
 
 •Machine Learning: (e.g., Scikit-Learn, TensorFlow, Keras)
